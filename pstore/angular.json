@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pstore"
+    }
+  },
+  "defaultProject": "pstore",
+  "cli": {
+    "analytics": "5a67e61f-c752-4bce-a702-123d8445e607"
+  }
 }
